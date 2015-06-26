@@ -1,3 +1,3 @@
 #!/usr/bin/env python
-# Author: L. Pardini
-print "Hello world " * 10
+# Author: L. Pardini & E. Blokhin
+print "Hello world " * 20
